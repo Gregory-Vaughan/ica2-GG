@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
+// This is my second commit here from Griffin.
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
 
